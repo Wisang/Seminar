@@ -80,8 +80,8 @@
       <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="42" column="88" lean-forward="false" selection-start-line="42" selection-start-column="88" selection-end-line="42" selection-end-column="88" />
+            <state relative-caret-position="495">
+              <caret line="49" column="70" lean-forward="false" selection-start-line="49" selection-start-column="70" selection-end-line="49" selection-end-column="70" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -92,9 +92,11 @@
       <file leaf-file-name="Fish.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Fish.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-              <folding />
+            <state relative-caret-position="105">
+              <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+              <folding>
+                <element signature="e#45#71#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -361,12 +363,12 @@
       <workItem from="1479346603916" duration="1167000" />
       <workItem from="1479432156868" duration="1640000" />
       <workItem from="1479706349286" duration="4505000" />
-      <workItem from="1479775506483" duration="2346000" />
+      <workItem from="1479775506483" duration="4121000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29413000" />
+    <option name="totallyTimeSpent" value="31188000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1543" y="-57" width="1017" height="777" extended-state="0" />
@@ -818,8 +820,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="42" column="88" lean-forward="false" selection-start-line="42" selection-start-column="88" selection-end-line="42" selection-end-column="88" />
+        <state relative-caret-position="495">
+          <caret line="49" column="70" lean-forward="false" selection-start-line="49" selection-start-column="70" selection-end-line="49" selection-end-column="70" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -828,9 +830,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Fish.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-          <folding />
+        <state relative-caret-position="105">
+          <caret line="9" column="29" lean-forward="false" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="e#45#71#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
