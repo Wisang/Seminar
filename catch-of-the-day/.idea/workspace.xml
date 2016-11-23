@@ -188,8 +188,8 @@
       <file leaf-file-name="Order.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Order.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="45" column="28" lean-forward="false" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+            <state relative-caret-position="430">
+              <caret line="63" column="47" lean-forward="true" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="47" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -237,8 +237,8 @@
         <option value="$PROJECT_DIR$/src/components/Inventory.js" />
         <option value="$PROJECT_DIR$/src/components/App.js" />
         <option value="$PROJECT_DIR$/src/css/style.styl" />
-        <option value="$PROJECT_DIR$/src/components/Order.js" />
         <option value="$PROJECT_DIR$/src/css/_animations.styl" />
+        <option value="$PROJECT_DIR$/src/components/Order.js" />
       </list>
     </option>
   </component>
@@ -491,12 +491,12 @@
       <workItem from="1479432156868" duration="1640000" />
       <workItem from="1479706349286" duration="4505000" />
       <workItem from="1479775506483" duration="10344000" />
-      <workItem from="1479864241074" duration="6406000" />
+      <workItem from="1479864241074" duration="6529000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43817000" />
+    <option name="totallyTimeSpent" value="43940000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1444" y="-53" width="1017" height="736" extended-state="0" />
@@ -1056,8 +1056,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Order.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="45" column="28" lean-forward="false" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+        <state relative-caret-position="430">
+          <caret line="63" column="47" lean-forward="true" selection-start-line="63" selection-start-column="47" selection-end-line="63" selection-end-column="47" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
